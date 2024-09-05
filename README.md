@@ -8,6 +8,8 @@
 - Analyze Literature
 - Make Vector Databases for Language Models.
 
+![](https://github.com/codecreatede/arabidopsis-genome-analyzer/blob/main/arabidopsis.png)
+
 **BUG check to finish today evening**
 
 - to run the application 
