@@ -1,12 +1,14 @@
 # streamlit-genomeannotate
 
 - streamlit multipage desktop genome application to annotate and analyze your genome.
-- supports all the functions previously presented in the Tairaccession.
+- supports all the functions previously presented in the Tairaccession python package. 
 - Analyze genomes
 - Analyze genes
 - Analyze genome annotations
 - Analyze Literature
 - Make Vector Databases for Language Models.
+
+**BUG check to finish today evening**
 
 - to run the application 
 ```
